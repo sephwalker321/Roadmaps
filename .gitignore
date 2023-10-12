@@ -1,0 +1,9 @@
+histories_personal/
+places_personal/
+plots/
+venv/
+Dev.ipynb
+dev.py
+*.pyc
+Notebooks/.ipynb_checkpoints
+roadmaps.egg-info/

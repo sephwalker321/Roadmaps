@@ -1,0 +1,15 @@
+region :
+    Alberta : false
+    BritishColumbia : false
+    Manitoba : false
+    NewBrunswick : false
+    NewfoundlandandLabrador : false
+    NorthwestTerritories : false
+    NovaScotia : false
+    Nunavut : false
+    Ontario : false
+    PrinceEdwardIsland : false
+    Quebec : false
+    Saskatchewan : false
+    Yukon : false
+cities:

@@ -1,0 +1,22 @@
+version: 1
+
+#Data ranges
+date_min: "2000-01-01"
+date_max: "2100-01-01"
+
+#Units
+distance_unit: "miles"
+time_unit: "hours"
+
+#Plotting density
+dpi: 250
+
+#Data Location
+roads_folder: "data/roads_raw"
+places_folder: "data/places_raw"
+plots_folder: "plots"
+
+#Plotting formating
+road_line_colour: "navy"
+n_colours: 256
+cmap: "Reds"

@@ -1,0 +1,44 @@
+version: 1
+
+unknown:
+    long_mid: -1 
+    lat_mid: -1
+    width: -1
+    long_range: -1
+    lat_range: -1
+    resolution: 1
+countries:
+    long_mid: -1 
+    lat_mid: -1
+    width: -1
+    long_range: [-179, 179]
+    lat_range: [-80, 80]
+    resolution: 1
+uk:
+    long_mid: -1 
+    lat_mid: -1
+    width: -1
+    long_range: [-11.2,2.5]
+    lat_range: [49.5,59]
+    resolution: 8
+durham:
+    long_mid: -1.5765525416385773
+    lat_mid: 54.773606191536224
+    width: .08
+    long_range: -1
+    lat_range: -1
+    resolution: 15
+canada:
+    long_mid: -1 
+    lat_mid: -1
+    width: -1
+    long_range: [-145, -55]
+    lat_range: [50, 80]
+    resolution: 1
+usa:
+    long_mid: -1 
+    lat_mid: -1
+    width: -1
+    long_range: [-140, -60]
+    lat_range: [22.5, 50]
+    resolution: 5

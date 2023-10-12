@@ -1,0 +1,20 @@
+version: 1
+
+not_colour : 'lightgrey'
+have_colour : 'green'
+countries:
+    folder_path : "countries"
+    shapefile_path : "World_Countries__Generalized_"
+    col_name : "COUNTRY"
+uk:
+    folder_path : "unitedkingdom_counties"
+    shapefile_path : "Boundary-line-ceremonial-counties_region"
+    col_name : "NAME"
+canada:
+    folder_path : "canada_provinces"
+    shapefile_path : "Canada_Provinces"
+    col_name : "NAME"
+usa:
+    folder_path : "usa_states"
+    shapefile_path : "cb_2018_us_state_500k"
+    col_name : "NAME"
